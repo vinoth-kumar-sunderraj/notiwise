@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xdn2FdyX1lLkw3yutABi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="260" width="280" height="240" as="geometry" />
+          <mxGeometry x="20" y="130" width="800" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
